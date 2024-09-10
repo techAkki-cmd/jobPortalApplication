@@ -6,9 +6,9 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>3.3.2</version>
-		<relativePath/> <!-- lookup parent from repository -->
+		<relativePath/>
 	</parent>
-	<groupId>com.luv2code</groupId>
+	<groupId>com.arijit</groupId>
 	<artifactId>jobportal</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>jobportal</name>
@@ -63,28 +63,28 @@
 			<scope>runtime</scope>
 		</dependency>
 
-		<!-- https://mvnrepository.com/artifact/org.webjars/bootstrap -->
+
 		<dependency>
 			<groupId>org.webjars</groupId>
 			<artifactId>bootstrap</artifactId>
 			<version>5.3.2</version>
 		</dependency>
 
-		<!-- https://mvnrepository.com/artifact/org.webjars/jquery -->
+
 		<dependency>
 			<groupId>org.webjars</groupId>
 			<artifactId>jquery</artifactId>
 			<version>3.7.1</version>
 		</dependency>
 
-		<!-- https://mvnrepository.com/artifact/org.webjars/webjars-locator -->
+
 		<dependency>
 			<groupId>org.webjars</groupId>
 			<artifactId>webjars-locator</artifactId>
 			<version>0.50</version>
 		</dependency>
 
-		<!-- https://mvnrepository.com/artifact/org.webjars/font-awesome -->
+
 		<dependency>
 			<groupId>org.webjars</groupId>
 			<artifactId>font-awesome</artifactId>
